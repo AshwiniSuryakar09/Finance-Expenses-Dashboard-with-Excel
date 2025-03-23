@@ -17,7 +17,7 @@
 ### 5.It helps in tracking spending patterns, identifying unnecessary expenses, and making better financial decisions. With this information, families can plan their budget more effectively and ensure they are saving their hard-earned money instead of unknowingly overspending.
 
 > ## Author
-    [Ashwini Suryakar](https://www.linkedin.com/in/ashwini-suryakar-b4b68523a/)
+    [Ashwini Suryakar](https://www.linkedin.com/in/ashwini-suryakar/)
 
 
 
